@@ -7,7 +7,6 @@
 prgrmr-yn/prgrmr-yn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
  
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Yatin Nagpal">
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
@@ -36,7 +35,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -46,9 +44,9 @@ You can click the Preview link to take a look at your changes.
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="GitHub" height="25" src="./images/sql.svg"></code>
-    <code><img title="GitHub" height="25" src="./images/ruby.svg"></code>
-    <code><img title="GitHub" height="25" src="./images/terminal.svg"></code>
+  <code><img title="sql" height="25" src="./images/sql.svg"></code>
+  <code><img title="ruby" height="25" src="./images/ruby.svg"></code>
+  <code><img title="terminal" height="25" src="./images/terminal.svg"></code>
 </p>
 <hr>
 
