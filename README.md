@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m Yatin
+<!-- - 👋 Hi, I’m Rithikun
 - 👀 I’m interested in Programming to make mine and other people lives a but easier through technology 
 - 🌱 I’m currently learning JavaScript and Ruby on Rails 
 - 💞️ I’m looking to collaborate on anything coding related
