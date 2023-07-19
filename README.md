@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ###  <img src="./images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi I'm Yatin, Software Developer from MELBOURNE, AUSTRALIA
+  Hi I'm Rithikun, Software Developer from MELBOURNE, AUSTRALIA
   <br>
   <br>
   👨‍🎓 I currently finished the 6 month Ruby on Rails bootcamp in Melbourne, Australia
