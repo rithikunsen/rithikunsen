@@ -8,7 +8,7 @@ prgrmr-yn/prgrmr-yn is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Yatin Nagpal">
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Rithikun Sen">
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
