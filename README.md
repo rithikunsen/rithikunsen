@@ -52,9 +52,6 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![Rithikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=prgrmr-yn&show_icons=true&theme=synthwave)
-
-
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prgrmr-yn&&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=9&layout=compact&border_color=61eafb&border=true" />
