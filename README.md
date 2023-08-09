@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+![Rithikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=prgrmr-yn&show_icons=true&theme=synthwave)
 
 
 <p align="center">
