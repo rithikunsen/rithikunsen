@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Rithikun
 - 👀 I’m interested in Programming to make mine and other people lives a but easier through technology 
-- 🌱 I’m currently learning JavaScript and Ruby on Rails 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything coding related
 - 📫 How to reach me? Go to my website https://prgrmr-yn.github.io/profile and send me a form message
 <!---
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   Hi I'm Rithikun, Software Developer from MELBOURNE, AUSTRALIA
   <br>
   <br>
-  👨‍🎓 I currently finished the 6 month Ruby on Rails bootcamp in Melbourne, Australia
+  👨‍🎓 I currently studying Master of Information Technology at Swinburne University of Technology in Melbourne, Australia
   <br>
   💻 I love Writing code, Keen on Hardware and learning anything about them 😊
   <br>
