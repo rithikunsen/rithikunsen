@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   💻 I love Writing code, Keen on Software and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Software development and shell scripting
+  📚 I’m currently focusing on Software development
   <br>
   📫 How to reach me 👇
 </p>
