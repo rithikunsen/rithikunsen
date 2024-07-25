@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   👨‍🎓 I currently studying Master of Information Technology at Swinburne University of Technology in Melbourne, Australia
   <br>
-  💻 I love Writing code, Keen on Hardware and learning anything about them 😊
+  💻 I love Writing code, Keen on Software and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Software development and shell scripting
   <br>
