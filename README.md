@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m Rithikun
-- 👀 I’m interested in Programming to make mine and other people lives a but easier through technology 
+- 👀 I’m interested in Programming to make mine and other people lives a but easier through technology
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything coding related
 - 📫 How to reach me? Go to my website https://prgrmr-yn.github.io/profile and send me a form message
@@ -7,7 +7,7 @@
 prgrmr-yn/prgrmr-yn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
+
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Rithikun Sen">
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
@@ -17,12 +17,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h1>
 
-###  <img src="./images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+### <img src="./images/Developer.gif" alt="developer gif"  height="45px"> About Me:
+
 <p align="center">
   Hi I'm Rithikun, Software Developer from MELBOURNE, AUSTRALIA
   <br>
   <br>
-  👨‍🎓 I currently studying Master of Information Technology at Swinburne University of Technology in Melbourne, Australia
+  👨‍🎓 I have graduated with a Master of Information Technology, specialising in Software Development, from Swinburne University of Technology in November 2024. I also hold a Bachelor's degree in Management of Information Systems from Paragon International University. With hands-on IT work experience, I have contributed to various projects in cloud computing, database management, web development, and app development. Skilled in a wide range of technologies such as Full-stack Development, AWS, Oracle Cloud, MySQL, and JavaScript, I am eager to leverage my technical expertise and problem-solving abilities to contribute effectively to your company’s IT initiatives and digital transformation goals.
   <br>
   💻 I love Writing code, Keen on Software and learning anything about them 😊
   <br>
@@ -57,6 +58,3 @@ You can click the Preview link to take a look at your changes.
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prgrmr-yn&&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=9&layout=compact&border_color=61eafb&border=true" />
  </a>
 </p>
-
-
-
