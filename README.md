@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="sql" height="25" src="./images/sql.svg"></code>
-  <code><img title="ruby" height="25" src="./images/ruby.svg"></code>
+  <code><img title="ruby" height="25" src="./images/react.svg"></code>
   <code><img title="terminal" height="25" src="./images/terminal.svg"></code>
 </p>
 <hr>
