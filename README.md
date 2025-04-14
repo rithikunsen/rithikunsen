@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   Hi I'm Rithikun, Software Developer from MELBOURNE, AUSTRALIA
   <br>
   <br>
-  👨‍🎓 I have graduated with a Master of Information Technology, specialising in Software Development, from Swinburne University of Technology in November 2024. I also hold a Bachelor's degree in Management of Information Systems from Paragon International University. With hands-on IT work experience, I have contributed to various projects in cloud computing, database management, web development, and app development. Skilled in a wide range of technologies such as Full-stack Development, React, React Native, MySQL, and JavaScript frameworks, I am eager to leverage my technical expertise and problem-solving abilities to contribute effectively to your company’s IT initiatives and digital transformation goals.
+  👨‍🎓 A passionate and results-driven Software Developer with a Master’s degree in Information Technology (Software Development) from Swinburne University of Technology. I have hands-on experience in cloud computing, database management, and full-cycle web and app development. Skilled in Full-Stack Development using modern JavaScript frameworks such as React and Node.js, along with AWS, Oracle Cloud, and MySQL. I excel at building scalable, user-focused solutions and enjoy solving complex technical challenges in collaborative, agile environments. Eager to contribute to innovative projects that drive digital transformation and create meaningful impact.
   <br>
   💻 I love Writing code, Keen on Software and learning anything about them 😊
   <br>
