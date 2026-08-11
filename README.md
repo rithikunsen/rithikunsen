@@ -1,15 +1,4 @@
-<!-- - 👋 Hi, I’m Rithikun
-- 👀 I’m interested in Programming to make mine and other people lives a but easier through technology
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything coding related
-- 📫 How to reach me? Go to my website https://prgrmr-yn.github.io/profile and send me a form message
-<!---
-prgrmr-yn/prgrmr-yn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Rithikun Sen">
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prgrmr-yn/read-me-profile" alt="Rithikun Sen">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -17,27 +6,38 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h1>
 
-### <img src="./images/Developer.gif" alt="developer gif"  height="45px"> About Me:
+### <img src="./images/Developer.gif" alt="developer gif" height="45px"> About Me:
 
 <p align="center">
-  Hi I'm Rithikun, Software Developer from MELBOURNE, AUSTRALIA
+  Hi, I'm Rithikun — Software Developer based in Phnom Penh, Cambodia
   <br>
   <br>
-  👨‍🎓 A passionate and results-driven Software Developer with a Master’s degree in Information Technology (Software Development) from Swinburne University of Technology. I have hands-on experience in cloud computing, database management, and full-cycle web and app development. Skilled in Full-Stack Development using modern JavaScript frameworks such as React and Node.js, along with AWS, Oracle Cloud, and MySQL. I excel at building scalable, user-focused solutions and enjoy solving complex technical challenges in collaborative, agile environments. Eager to contribute to innovative projects that drive digital transformation and create meaningful impact.
+  👨‍🎓 A results-driven Software Developer with a Master's degree in Information Technology (Software Development) from Swinburne University of Technology. I have hands-on experience in cloud computing (AWS, Oracle Cloud), database management, and full-cycle web and app development using React, Node.js, and MySQL.
   <br>
-  💻 I love Writing code, Keen on Software and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Software development
+  🔐 I'm also into cybersecurity — I've researched false data injection (FDI) attacks on cyber-physical systems, work through TryHackMe's SEC1 pathway in a self-built Kali Linux lab, and wrote a VeraCrypt automation script to streamline encrypted volume workflows.
+  <br>
+  <br>
+  💻 I enjoy building scalable, user-focused solutions and solving complex technical challenges in collaborative, agile environments.
+  <br>
+  📚 Currently focused on cybersecurity and secure software development.
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/rithikunsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a><a href="https://github.com/rithikunsen/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rithikunsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+  <a href="https://github.com/rithikunsen/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
+</p>
+
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
@@ -45,14 +45,13 @@ You can click the Preview link to take a look at your changes.
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="sql" height="25" src="./images/sql.svg"></code>
-  <code><img title="ruby" height="25" src="./images/ruby.svg"></code>
   <code><img title="terminal" height="25" src="./images/terminal.svg"></code>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prgrmr-yn&&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=9&layout=compact&border_color=61eafb&border=true" />
